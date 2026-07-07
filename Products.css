@@ -654,10 +654,10 @@
   }
 
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 5px));
+    grid-template-columns: repeat(2, calc(50% - 2.5px));
     min-height: 582px;
-    --gap: 10px;
-    grid-auto-columns: calc(50% - 5px);
+    --gap: 5px;
+    grid-auto-columns: calc(50% - 2.5px);
   }
 
   .u-section-3 .u-container-layout-1 {
