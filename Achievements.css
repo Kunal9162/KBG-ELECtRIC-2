@@ -1,22 +1,24 @@
  .u-section-1 {
-  background-position: 50% 26.47%;
-  background-size: cover;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)) no-repeat 50% 50% / cover;
+  background-position: 50% 50%, 50% 26.47%;
+  background-size: cover, cover;
+  background-repeat: no-repeat;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 600px;
+  min-height: 685px;
 }
 
 .u-section-1 .u-text-1 {
   font-family: "DM Sans";
   font-size: 2.25rem;
   font-weight: 700;
-  margin: 242px 316px 60px 0;
+  margin: 327px 316px 60px 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 495px;
+    min-height: 565px;
   }
 
   .u-section-1 .u-text-1 {
@@ -53,8 +55,9 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.25rem;
-    margin-top: 102px;
+    margin-top: 128px;
     margin-right: 99px;
+    margin-bottom: 54px;
   }
 } .u-section-2 {
   background-position: 50% 50%;
