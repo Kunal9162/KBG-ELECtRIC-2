@@ -93,7 +93,7 @@
 
 .u-section-2 .u-text-2 {
   font-family: "DM Sans";
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   margin: 12px 0 0;
 }
 
@@ -218,7 +218,7 @@
 .u-section-3 .u-text-1 {
   font-family: "DM Sans";
   line-height: 1.6;
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   margin: 56px 0 0;
 }
 
@@ -359,8 +359,8 @@
 .u-section-4 .u-text-3 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
-  margin: 20px 0 0;
+  font-size: 0.888889rem;
+  margin: 13px -1px 0;
 }
 
 .u-section-4 .u-list-item-2 {
@@ -392,8 +392,8 @@
   font-style: normal;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
-  margin: 20px 0 0;
+  font-size: 0.888889rem;
+  margin: 13px -1px 0;
 }
 
 .u-section-4 .u-list-item-3 {
@@ -425,8 +425,8 @@
   font-style: normal;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
-  margin: 20px 0 0;
+  font-size: 0.888889rem;
+  margin: 13px -1px 0;
 }
 
 .u-section-4 .u-list-item-4 {
@@ -458,8 +458,8 @@
   font-style: normal;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
-  margin: 20px 0 0;
+  font-size: 0.888889rem;
+  margin: 13px -1px 0;
 }
 
 @media (max-width: 1199px) {
@@ -489,12 +489,22 @@
     --animation-custom_in-scale: 1;
   }
 
+  .u-section-4 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .u-section-4 .u-list-item-2 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: 300px;
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
+  }
+
+  .u-section-4 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-4 .u-list-item-3 {
@@ -505,12 +515,22 @@
     --animation-custom_in-scale: 1;
   }
 
+  .u-section-4 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .u-section-4 .u-list-item-4 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: 300px;
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
+  }
+
+  .u-section-4 .u-text-9 {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -668,7 +688,7 @@
 }
 
 .u-section-5 .u-text-2 {
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   font-family: "DM Sans";
   margin: 20px 0 0;
 }
@@ -1023,7 +1043,7 @@
 .u-section-6 .u-text-3 {
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   margin: 20px 0 0;
 }
 
@@ -1056,7 +1076,7 @@
   font-style: normal;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   margin: 20px 0 0;
 }
 
@@ -1089,7 +1109,7 @@
   font-style: normal;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   margin: 20px 0 0;
 }
 
@@ -1122,7 +1142,7 @@
   font-style: normal;
   box-shadow: 0px 0px 0px  rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
-  font-size: 0.75rem;
+  font-size: 0.888889rem;
   margin: 20px 0 0;
 }
 
