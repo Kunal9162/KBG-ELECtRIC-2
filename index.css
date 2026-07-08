@@ -24,7 +24,7 @@
 }
 
  .u-section-1-1 {
-  background-image: linear-gradient(to bottom, rgba(57, 115, 183, 0.4), rgba(255, 255, 255, 0.35)) no-repeat 50% 50% / cover;
+  background-image: linear-gradient(to bottom, rgba(57, 115, 183, 0.5) 70%, rgba(242, 242, 242, 0.5) 100%) no-repeat 50% 50% / cover;
   background-position: 50% 50%, 50% 50%;
   background-size: cover, cover;
   background-repeat: no-repeat, no-repeat;
@@ -37,13 +37,13 @@
 .u-section-1-1 .u-text-1 {
   font-size: 2.25rem;
   font-family: "DM Sans";
-  margin: 330px 0 0;
+  margin: 370px 107px 0;
 }
 
 .u-section-1-1 .u-text-2 {
   font-family: "DM Sans";
   font-size: 1.25rem;
-  margin: 13px 100px 60px;
+  margin: 21px 80px 60px 106px;
 }
 
 @media (max-width: 1199px) {
@@ -53,6 +53,8 @@
 
   .u-section-1-1 .u-text-1 {
     margin-top: 271px;
+    margin-left: 7px;
+    margin-right: 7px;
   }
 
   .u-section-1-1 .u-text-2 {
@@ -64,6 +66,11 @@
 @media (max-width: 991px) {
   .u-section-1-1 .u-sheet-1 {
     min-height: 506px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -92,7 +99,7 @@
 }
 
  .u-section-1-2 {
-  background-image: linear-gradient(to bottom, rgba(57, 115, 183, 0.3), rgba(57, 115, 183, 0.3)) no-repeat 50% 50% / cover;
+  background-image: linear-gradient(to bottom, rgba(57, 115, 183, 0.5) 59%, rgba(242, 242, 242, 0.5)) no-repeat 50% 50% / cover;
   background-position: 50% 50%, 50% 50%;
   background-size: cover, cover;
   background-repeat: no-repeat, no-repeat;
@@ -106,19 +113,23 @@
   font-size: 2.25rem;
   font-family: "DM Sans";
   width: 744px;
-  margin: 60px auto 0;
+  margin: 362px auto 0;
 }
 
 .u-section-1-2 .u-text-2 {
   font-family: "DM Sans";
   font-size: 1.25rem;
   width: 837px;
-  margin: 24px auto 60px;
+  margin: 21px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1-2 .u-sheet-1 {
     min-height: 660px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-top: 60px;
   }
 
   .u-section-1-2 .u-text-2 {
