@@ -238,7 +238,9 @@
   letter-spacing: 1px;
   font-size: 0.75rem;
   background-image: none;
+  --radius: 20px;
   margin: -131px 193px 0 auto;
+  padding: 10px 17px 10px 16px;
 }
 
 @media (max-width: 1199px) {
@@ -303,6 +305,10 @@
     min-height: 808px;
   }
 
+  .u-section-2 .u-image-1 {
+    margin-top: 639px;
+  }
+
   .u-section-2 .u-text-2 {
     margin-right: 56px;
     margin-left: 0;
@@ -318,8 +324,29 @@
     min-height: 824px;
   }
 
+  .u-section-2 .u-image-1 {
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-line-1 {
+    margin-top: 0;
+  }
+
   .u-section-2 .u-text-2 {
+    margin-top: 0;
     margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 0;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 813px;
